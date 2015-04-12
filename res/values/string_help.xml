@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_text">
+
+        Motion detect - Motion is detected at the time in which an object in your environment shifts. This is displayed on the screen as different pixels.
+                        Simply, keep the camera steady at target(s), and allow the camera to view the surrounding area.\n
+
+        \nColor Detect - When color detection is enabled, keep camera steady on the object. The camera will detect the color and view the color on screen.\n
+
+        \nCounter - Keep camera steady and allow the camera to see the objects. The line in the center will increase the counter on the top right when an object moves/crosses over the counter line.\n
+
+        \nBounding Box - This detects movement within a certain area of the screen depicted by a box. Keep the camera steady, with the bounding box centered, and a scatter plot will appear on screen.\n
+
+    </string>
+
+
+
+</resources>
